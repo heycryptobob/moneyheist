@@ -11,6 +11,15 @@ export function Tokenomics() {
         </Row>
         <Row className="pb-5" xs={1} md={2}>
           <Col className="pt-5">
+            <h3>Token</h3>
+            <ul className="list-unstyled">
+              <li>Name: <code>MONEYHEIST</code></li>
+              <li>Symbol: <code>$MHT</code></li>
+              <li>Decimals: <code>18</code></li>
+              <li>Address: <code>0x71A0aEcC1f92b942aC1a5e7fD297429495838345</code></li>
+            </ul>
+          </Col>
+          <Col className="pt-5">
             <h3>Taxation.</h3>
             <ul className="list-unstyled">
               <li><code>5%</code> Marketing</li>
