@@ -1,0 +1,49 @@
+$red: #db0c26;
+
+$body-bg: #000505;
+$body-color: #f0f0f0;
+
+a {
+  color: $body-color !important;
+}
+
+$theme-colors: (
+    "primary": $red,
+    "link": $body-color,
+    "secondary": rgb(48, 5, 6),
+    // "info": #17a2b8,
+    // "danger": #db0c26,
+);
+
+code {
+  color: $red !important;
+}
+
+@import "~bootstrap/scss/bootstrap";
+
+#hero {
+    background-image: url("./images/hero-bg.png");
+    // opacity: 0.5;
+}
+
+.bg-legal {
+  background-color: #101010;
+}
+
+.bg-secondary {
+  background-color: #0a0a0a !important;
+}
+
+.nav-link {
+  &:hover {
+    background-color: $red !important;
+  }
+}
+
+.footer-nav > .nav-link {
+  padding-left: 0px !important;
+  &:hover {
+    background-color: transparent !important;
+    color: $red !important;
+  }
+}
