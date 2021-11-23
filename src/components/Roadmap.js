@@ -69,7 +69,11 @@ export function Roadmap() {
                   <span className="text-body">250 BNB Presale</span>
                 </strike>
               </li>
-              <li>Launch</li>
+              <li>
+                <strike className="text-primary">
+                  <span className="text-body">Launch</span>
+                </strike>
+              </li>
             </ul>
           </Col>
           <Col className="pt-5">
