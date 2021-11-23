@@ -9,7 +9,7 @@ export function Tokenomics() {
             <h2><span className="text-primary">Token</span>omics.</h2>
           </Col>
         </Row>
-        <Row className="pb-5" xs={1} md={2}>
+        <Row className="pb-5" xs={1} md={3}>
           <Col className="pt-5">
             <h3>Token</h3>
             <ul className="list-unstyled">
