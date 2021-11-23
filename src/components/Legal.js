@@ -5,7 +5,7 @@ export function Legal() {
   return (
     <section>
       <Container className="pt-5 pb-5">
-        <Row>
+        <Row xs={1} md={2}>
           <Col>
             <div>
               <h4>Legal Disclaimer.</h4>

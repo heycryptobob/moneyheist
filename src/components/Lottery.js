@@ -5,7 +5,7 @@ export function Lottery() {
   return (
     <section id="lottery" className="border-bottom border-secondary">
       <Container className="pt-5 pb-5">
-        <Row className="pt-5 pb-5">
+        <Row className="pt-5 pb-5" xs={1} md={2}>
           <Col>
             <h2><span className="text-primary">Rob</span> The Bank.</h2>
             <p>Every week, a heist will take place. The the bank vault will contain 1% of the total volume transacted.</p>

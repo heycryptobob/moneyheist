@@ -5,7 +5,7 @@ export function Game() {
   return (
     <section id="game" className="border-bottom border-secondary">
       <Container className="pt-5 pb-5">
-        <Row className="pt-5 pb-5">
+        <Row className="pt-5 pb-5" xs={1} md={2}>
           <Col className="d-flex align-items-center">
             <div>
               <h2>

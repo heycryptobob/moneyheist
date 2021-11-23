@@ -9,7 +9,7 @@ export function Roadmap() {
           <h2><span className="text-primary">Road</span>map.</h2>
           </Col>
         </Row>
-        <Row>
+        <Row xs={1} md={2}>
           <Col>
             <h3>Phase <span className="text-primary">1</span>.</h3>
             <ul className="list-unstyled">

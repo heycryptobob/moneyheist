@@ -5,7 +5,7 @@ export function Bridge() {
   return (
     <section id="bridge" className="border-bottom border-secondary bg-secondary">
       <Container className="pt-5 pb-5">
-        <Row className="pt-5 pb-5">
+        <Row className="pt-5 pb-5" xs={1} md={2}>
           <Col className="d-flex justify-content-center align-items-center">
             <img src={Image} alt="ETH Bridge" width="256" height="256" />
           </Col>

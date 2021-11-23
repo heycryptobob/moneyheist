@@ -3,7 +3,7 @@ import Image from '../images/mht_logo.png';
 
 export function Header() {
   return (
-    <Navbar bg="dark" expand="lg">
+    <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
         <Navbar.Brand href="/">
         <img src={Image} alt="$MHT Logo" width="64" height="64" />

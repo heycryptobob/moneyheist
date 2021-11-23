@@ -4,7 +4,7 @@ export function Audit() {
   return (
     <section id="audit" className="border-bottom border-secondary bg-secondary">
       <Container className="pt-5 pb-5">
-        <Row className="pt-5 pb-5">
+        <Row className="pt-5 pb-5" xs={1} md={2}>
           <Col>
             <h2>
               <span className="text-primary">A</span>udit.
