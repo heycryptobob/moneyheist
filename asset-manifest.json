@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.3ef9ca99.chunk.css",
-    "main.js": "/static/js/main.e601b0ba.chunk.js",
-    "main.js.map": "/static/js/main.e601b0ba.chunk.js.map",
+    "main.js": "/static/js/main.f7c7cfbb.chunk.js",
+    "main.js.map": "/static/js/main.f7c7cfbb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a57ebcb6.js",
     "runtime-main.js.map": "/static/js/runtime-main.a57ebcb6.js.map",
     "static/js/2.882ccbe4.chunk.js": "/static/js/2.882ccbe4.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.3ef9ca99.chunk.css.map": "/static/css/main.3ef9ca99.chunk.css.map",
     "static/js/2.882ccbe4.chunk.js.LICENSE.txt": "/static/js/2.882ccbe4.chunk.js.LICENSE.txt",
+    "static/media/cmc.234ad3cb.png": "/static/media/cmc.234ad3cb.png",
     "static/media/coinhunt.2dd3a427.png": "/static/media/coinhunt.2dd3a427.png",
     "static/media/coinsniper.5655910e.png": "/static/media/coinsniper.5655910e.png",
     "static/media/eth_bridge.44bc8fb3.png": "/static/media/eth_bridge.44bc8fb3.png",
@@ -25,6 +26,6 @@
     "static/js/runtime-main.a57ebcb6.js",
     "static/js/2.882ccbe4.chunk.js",
     "static/css/main.3ef9ca99.chunk.css",
-    "static/js/main.e601b0ba.chunk.js"
+    "static/js/main.f7c7cfbb.chunk.js"
   ]
 }
