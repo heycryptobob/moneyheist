@@ -2,8 +2,14 @@ import { Container, Row, Col } from "react-bootstrap";
 import WatcherGuru from '../images/watcher_guru.png';
 import Coinsniper from '../images/coinsniper.png';
 import Coinhunt from '../images/coinhunt.png';
+import CMC from '../images/cmc.png';
 
 const items = [
+  {
+    href: "https://coinmarketcap.com/currencies/money-heist",
+    src: CMC,
+    alt: "CoinMarketCap",
+  },
   {
     href: "https://watcher.guru/coin/money-heist-token",
     src: WatcherGuru,
