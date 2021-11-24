@@ -48,8 +48,6 @@ code {
   }
 }
 
-
-
-#root > .bg-dark-1 {
-  background-color: red !important;
+.grayscale {
+  filter: grayscale(1);
 }

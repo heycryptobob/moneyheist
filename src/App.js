@@ -12,6 +12,7 @@ import { NFTCollection } from './components/NFTCollection';
 import { Roadmap } from './components/Roadmap';
 import { Tokenomics } from './components/Tokenomics';
 import ReactGA from "react-ga4";
+import { Media } from './components/Media';
 
 ReactGA.initialize("G-8M507FWXLW");
 ReactGA.send("pageview");
@@ -21,6 +22,7 @@ function App() {
     <>
       <Header />
       <Hero />
+      <Media />
       <Lottery />
       <NFTCollection />
       <Game />
