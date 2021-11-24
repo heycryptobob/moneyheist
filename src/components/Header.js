@@ -18,6 +18,7 @@ export function Header() {
             <Nav.Link href="#tokenomics">Tokenomics</Nav.Link>
             <Nav.Link href="#audit">Audit</Nav.Link>
             <Nav.Link href="#roadmap">Roadmap</Nav.Link>
+            <Nav.Link href="#team">Team</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

@@ -14,6 +14,7 @@ import { Tokenomics } from './components/Tokenomics';
 import ReactGA from "react-ga4";
 import { Media } from './components/Media';
 import { Twitter } from './components/Twitter';
+import { Team } from './components/Team';
 
 ReactGA.initialize("G-8M507FWXLW");
 ReactGA.send("pageview");
@@ -32,6 +33,7 @@ function App() {
       <Tokenomics />
       <Audit />
       <Roadmap />
+      <Team />
       <Contact />
       <Legal />
       <Footer />

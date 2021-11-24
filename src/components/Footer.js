@@ -14,6 +14,7 @@ export function Footer() {
               <Nav.Link href="#tokenomics">Tokenomics</Nav.Link>
               <Nav.Link href="#audit">Audit</Nav.Link>
               <Nav.Link href="#roadmap">Roadmap</Nav.Link>
+              <Nav.Link href="#team">Team</Nav.Link>
             </Nav>
             <p>© Copyright MoneyHeistToken 2021. All Rights Reserved.</p>
           </Col>
