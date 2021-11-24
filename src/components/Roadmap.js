@@ -7,78 +7,78 @@ export function Roadmap() {
         <Row>
           <Col className="text-center">
             <h2>
-              <span className="text-primary">Road</span>map.
+              <span className="text-primary">Roadmap.</span>
             </h2>
           </Col>
         </Row>
         <Row xs={1} md={2} lg={4}>
           <Col className="pt-5">
             <h3>
-              Phase <span className="text-primary">1</span>.
+              Phase <span className="text-primary">1.</span>
             </h3>
             <ul className="list-unstyled">
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">40 BNB Private Sale</span>
+                  40 BNB Private Sale
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">Website</span>
+                  Website
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">Twitter Socials</span>
+                  Twitter Socials
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">Telegram Socials</span>
+                  Telegram Socials
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">Dox Video</span>
+                  Dox Video
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">KYC with Pinksale</span>
+                  KYC with Pinksale
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">NFT Conception</span>
+                  NFT Conception
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">6x Telegram AMA</span>
+                  6x Telegram AMA
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">
+                  
                     Telegram Callgroup Marketing
-                  </span>
+                  
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">250 BNB Presale</span>
+                  250 BNB Presale
                 </strike>
               </li>
               <li>
                 <strike className="text-primary">
-                  <span className="text-body">Launch</span>
+                  Launch
                 </strike>
               </li>
             </ul>
           </Col>
           <Col className="pt-5">
             <h3>
-              Phase <span className="text-primary">2</span>.
+              Phase <span className="text-primary">2.</span>
             </h3>
             <ul className="list-unstyled">
               <li><strike className="text-primary">CoinMarketingCap Application</strike></li>
@@ -87,7 +87,7 @@ export function Roadmap() {
               <li><strike className="text-primary">Telegram Callgroup Marketing</strike></li>
               <li><strike className="text-primary">Reddit Top 3 Trending</strike></li>
               <li><strike className="text-primary">DEX Trending</strike></li>
-              <li>Press Releases</li>
+              <li>Press Release Submissions</li>
               <li>Poocoin Marketing</li>
               <li>YouTube Marketing</li>
               <li>NFT Design Iteration</li>
@@ -96,11 +96,12 @@ export function Roadmap() {
           </Col>
           <Col className="pt-5">
             <h3>
-              Phase <span className="text-primary">3</span>.
+              Phase <span className="text-primary">3.</span>
             </h3>
             <ul className="list-unstyled">
               <li><strike className="text-primary">CoinMarketingCap Listing</strike></li>
               <li>CoinGecko Application</li>
+              <li>Press Releases Published</li>
               <li>NFT Collection Release</li>
               <li>Twitter Trending</li>
               <li>CoinMarketingCap Trending</li>
@@ -111,7 +112,7 @@ export function Roadmap() {
           </Col>
           <Col className="pt-5">
             <h3>
-              Phase <span className="text-primary">4</span>.
+              Phase <span className="text-primary">4.</span>
             </h3>
             <ul className="list-unstyled">
               <li>Stage 1 Exchange Listing</li>
