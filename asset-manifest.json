@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.3ef9ca99.chunk.css",
-    "main.js": "/static/js/main.a3700603.chunk.js",
-    "main.js.map": "/static/js/main.a3700603.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ddd896ee.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ddd896ee.js.map",
-    "static/js/2.1949d1e3.chunk.js": "/static/js/2.1949d1e3.chunk.js",
-    "static/js/2.1949d1e3.chunk.js.map": "/static/js/2.1949d1e3.chunk.js.map",
-    "static/js/3.37f101e1.chunk.js": "/static/js/3.37f101e1.chunk.js",
-    "static/js/3.37f101e1.chunk.js.map": "/static/js/3.37f101e1.chunk.js.map",
+    "main.js": "/static/js/main.05800cf5.chunk.js",
+    "main.js.map": "/static/js/main.05800cf5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c97cc72c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c97cc72c.js.map",
+    "static/js/2.8f19d2d3.chunk.js": "/static/js/2.8f19d2d3.chunk.js",
+    "static/js/2.8f19d2d3.chunk.js.map": "/static/js/2.8f19d2d3.chunk.js.map",
+    "static/js/3.301c3c3d.chunk.js": "/static/js/3.301c3c3d.chunk.js",
+    "static/js/3.301c3c3d.chunk.js.map": "/static/js/3.301c3c3d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.3ef9ca99.chunk.css.map": "/static/css/main.3ef9ca99.chunk.css.map",
-    "static/js/2.1949d1e3.chunk.js.LICENSE.txt": "/static/js/2.1949d1e3.chunk.js.LICENSE.txt",
+    "static/js/2.8f19d2d3.chunk.js.LICENSE.txt": "/static/js/2.8f19d2d3.chunk.js.LICENSE.txt",
+    "static/media/CryptoNikisha.d67a3827.jpeg": "/static/media/CryptoNikisha.d67a3827.jpeg",
+    "static/media/HeyCryptoBob.b5e3aa1f.jpeg": "/static/media/HeyCryptoBob.b5e3aa1f.jpeg",
+    "static/media/ModeLTU.0d7613a0.jpeg": "/static/media/ModeLTU.0d7613a0.jpeg",
     "static/media/cmc.234ad3cb.png": "/static/media/cmc.234ad3cb.png",
     "static/media/coinhunt.2dd3a427.png": "/static/media/coinhunt.2dd3a427.png",
     "static/media/coinsniper.5655910e.png": "/static/media/coinsniper.5655910e.png",
@@ -23,9 +26,9 @@
     "static/media/watcher_guru.7e63d3fe.png": "/static/media/watcher_guru.7e63d3fe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddd896ee.js",
-    "static/js/2.1949d1e3.chunk.js",
+    "static/js/runtime-main.c97cc72c.js",
+    "static/js/2.8f19d2d3.chunk.js",
     "static/css/main.3ef9ca99.chunk.css",
-    "static/js/main.a3700603.chunk.js"
+    "static/js/main.05800cf5.chunk.js"
   ]
 }
