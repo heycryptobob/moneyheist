@@ -47,3 +47,9 @@ code {
     color: $red !important;
   }
 }
+
+
+
+#root > .bg-dark-1 {
+  background-color: red !important;
+}

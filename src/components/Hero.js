@@ -1,4 +1,5 @@
 import { Container, Button, Row, Col } from "react-bootstrap";
+import { Swap } from "./Swap";
 
 export function Hero() {
   return (
@@ -55,6 +56,9 @@ export function Hero() {
             <div className="mt-3">
               <code>0x71a0aecc1f92b942ac1a5e7fd297429495838345</code>
             </div>
+          </Col>
+          <Col>
+            <Swap />
           </Col>
         </Row>
       </Container>
