@@ -81,14 +81,14 @@ export function Roadmap() {
               Phase <span className="text-primary">2</span>.
             </h3>
             <ul className="list-unstyled">
-              <li>CoinMarketingCap Application</li>
-              <li>CoinGecko Application</li>
-              <li>Twitter Influencer Marketing</li>
-              <li>Telegram Callgroup Marketing</li>
-              <li>Reddit Top 3 Trending</li>
+              <li><strike className="text-primary">CoinMarketingCap Application</strike></li>
+              <li><strike className="text-primary">CoinGecko Application</strike></li>
+              <li><strike className="text-primary">Twitter Influencer Marketing</strike></li>
+              <li><strike className="text-primary">Telegram Callgroup Marketing</strike></li>
+              <li><strike className="text-primary">Reddit Top 3 Trending</strike></li>
+              <li><strike className="text-primary">DEX Trending</strike></li>
               <li>Press Releases</li>
               <li>Poocoin Marketing</li>
-              <li>DEX Trending</li>
               <li>YouTube Marketing</li>
               <li>NFT Design Iteration</li>
               <li>Stage 1 Exchange Application</li>
@@ -99,7 +99,7 @@ export function Roadmap() {
               Phase <span className="text-primary">3</span>.
             </h3>
             <ul className="list-unstyled">
-              <li>CoinMarketingCap Listing</li>
+              <li><strike className="text-primary">CoinMarketingCap Listing</strike></li>
               <li>CoinGecko Application</li>
               <li>NFT Collection Release</li>
               <li>Twitter Trending</li>
