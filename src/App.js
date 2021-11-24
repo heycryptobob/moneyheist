@@ -13,6 +13,7 @@ import { Roadmap } from './components/Roadmap';
 import { Tokenomics } from './components/Tokenomics';
 import ReactGA from "react-ga4";
 import { Media } from './components/Media';
+import { Twitter } from './components/Twitter';
 
 ReactGA.initialize("G-8M507FWXLW");
 ReactGA.send("pageview");
@@ -24,6 +25,7 @@ function App() {
       <Hero />
       <Media />
       <Lottery />
+      <Twitter />
       <NFTCollection />
       <Game />
       <Bridge />
