@@ -11,6 +11,10 @@ import { Lottery } from './components/Lottery';
 import { NFTCollection } from './components/NFTCollection';
 import { Roadmap } from './components/Roadmap';
 import { Tokenomics } from './components/Tokenomics';
+import ReactGA from "react-ga4";
+
+ReactGA.initialize("G-8M507FWXLW");
+ReactGA.send("pageview");
 
 function App() {
   return (
