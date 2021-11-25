@@ -3,12 +3,18 @@ import WatcherGuru from '../images/watcher_guru.png';
 import Coinsniper from '../images/coinsniper.png';
 import Coinhunt from '../images/coinhunt.png';
 import CMC from '../images/cmc.png';
+import Crypto from '../images/crypto.png';
 
 const items = [
   {
     href: "https://coinmarketcap.com/currencies/money-heist",
     src: CMC,
     alt: "CoinMarketCap",
+  },
+  {
+    href: "https://crypto.com/price/money-heist",
+    src: Crypto,
+    alt: "Crypto.com",
   },
   {
     href: "https://watcher.guru/coin/money-heist-token",
