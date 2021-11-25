@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ef9ca99.chunk.css",
+    "main.css": "/static/css/main.9072d5d4.chunk.css",
     "main.js": "/static/js/main.e7703603.chunk.js",
     "main.js.map": "/static/js/main.e7703603.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c97cc72c.js",
@@ -10,7 +10,7 @@
     "static/js/3.301c3c3d.chunk.js": "/static/js/3.301c3c3d.chunk.js",
     "static/js/3.301c3c3d.chunk.js.map": "/static/js/3.301c3c3d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3ef9ca99.chunk.css.map": "/static/css/main.3ef9ca99.chunk.css.map",
+    "static/css/main.9072d5d4.chunk.css.map": "/static/css/main.9072d5d4.chunk.css.map",
     "static/js/2.8f19d2d3.chunk.js.LICENSE.txt": "/static/js/2.8f19d2d3.chunk.js.LICENSE.txt",
     "static/media/CryptoNikisha.d67a3827.jpeg": "/static/media/CryptoNikisha.d67a3827.jpeg",
     "static/media/HeyCryptoBob.b5e3aa1f.jpeg": "/static/media/HeyCryptoBob.b5e3aa1f.jpeg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.c97cc72c.js",
     "static/js/2.8f19d2d3.chunk.js",
-    "static/css/main.3ef9ca99.chunk.css",
+    "static/css/main.9072d5d4.chunk.css",
     "static/js/main.e7703603.chunk.js"
   ]
 }
