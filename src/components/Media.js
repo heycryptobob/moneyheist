@@ -4,13 +4,13 @@ import Coinsniper from '../images/coinsniper.png';
 import Coinhunt from '../images/coinhunt.png';
 import CMC from '../images/cmc.png';
 import Crypto from '../images/crypto.png';
-import BusinessInsider from 'business_insider.png';
+import BusinessInsider from '../images/business_insider.png';
 
 const items = [
   {
     href: "https://www.businessinsider.es/nace-money-heist-token-criptomoneda-inspirada-casa-papel-973247",
     src: BusinessInsider,
-    alt: "Business Insider"
+    alt: "Business Insider",
   },
   {
     href: "https://coinmarketcap.com/currencies/money-heist",
