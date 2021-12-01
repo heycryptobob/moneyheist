@@ -1,4 +1,5 @@
 import { Container, Button, Row, Col } from "react-bootstrap";
+import { SocialIcon } from "react-social-icons";
 import { Swap } from "./Swap";
 
 export function Hero() {
@@ -35,6 +36,32 @@ export function Hero() {
               >
                 Join Telegram
               </Button>
+            </div>
+            <div className="mt-5">
+              <SocialIcon
+                url="https://t.me/moneyheistoken"
+                network="telegram"
+                bgColor="#FFFFFF"
+                style={{ height: "32px", width: "32px" }}
+                target="_blank"
+                rel="noreferrer"
+              />
+              <SocialIcon
+                url="https://twitter.com/moneyheistoken"
+                bgColor="#FFFFFF"
+                style={{ height: "32px", width: "32px" }}
+                className="ms-2"
+                target="_blank"
+                rel="noreferrer"
+              />
+              <SocialIcon
+                url="https://www.instagram.com/moneyheisttokenmht"
+                bgColor="#FFFFFF"
+                style={{ height: "32px", width: "32px" }}
+                className="ms-2"
+                target="_blank"
+                rel="noreferrer"
+              />
             </div>
             <div className="mt-5">
               <a
