@@ -87,6 +87,14 @@ export function Hero() {
               >
                 Liquidity Lock
               </a>
+              {" | "}
+              <a
+                href="/whitepaper.pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Whitepaper
+              </a>
             </div>
             <div className="mt-3">
               <code>0x71a0aecc1f92b942ac1a5e7fd297429495838345</code>
