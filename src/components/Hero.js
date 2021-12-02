@@ -62,6 +62,14 @@ export function Hero() {
                 target="_blank"
                 rel="noreferrer"
               />
+              <SocialIcon
+                url="https://www.tiktok.com/@moneyheistoken"
+                bgColor="#FFFFFF"
+                style={{ height: "32px", width: "32px" }}
+                className="ms-2"
+                target="_blank"
+                rel="noreferrer"
+              />
             </div>
             <div className="mt-5">
               <a
